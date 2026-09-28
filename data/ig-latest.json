@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-21",
-  "pulled_at": 1789974903,
+  "date": "2026-09-28",
+  "pulled_at": 1790578808,
   "account_id": "29279914781611604",
   "warnings": [],
   "account": {
@@ -8,19 +8,19 @@
     "username": "wm.jabez",
     "account_type": "MEDIA_CREATOR",
     "media_count": 72,
-    "followers_count": 1473
+    "followers_count": 1471
   },
   "insights": {
     "reach": {
       "metric": "reach",
       "values": [
         {
-          "value": 128,
-          "end_time": "2026-09-20T07:00:00+0000"
+          "value": 199,
+          "end_time": "2026-09-27T07:00:00+0000"
         },
         {
           "value": 0,
-          "end_time": "2026-09-21T07:00:00+0000"
+          "end_time": "2026-09-28T07:00:00+0000"
         }
       ],
       "value": 0
@@ -46,11 +46,11 @@
       "values": [
         {
           "value": 0,
-          "end_time": "2026-09-20T07:00:00+0000"
+          "end_time": "2026-09-27T07:00:00+0000"
         },
         {
           "value": 0,
-          "end_time": "2026-09-21T07:00:00+0000"
+          "end_time": "2026-09-28T07:00:00+0000"
         }
       ],
       "value": 0
@@ -63,10 +63,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-20T03:43:54+0000",
-      "likes": 617,
+      "likes": 620,
       "comments": 67,
       "permalink": "https://www.instagram.com/reel/DcP0pGQsFD9/",
-      "engagement": 684,
+      "engagement": 687,
       "insights": {}
     },
     {
@@ -87,10 +87,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-06-08T19:50:15+0000",
-      "likes": 193,
+      "likes": 194,
       "comments": 32,
       "permalink": "https://www.instagram.com/reel/DZVlYgHMEir/",
-      "engagement": 225,
+      "engagement": 226,
       "insights": {}
     },
     {
@@ -99,10 +99,10 @@
       "media_type": "CAROUSEL_ALBUM",
       "product_type": "FEED",
       "timestamp": "2026-08-26T11:00:16+0000",
-      "likes": 203,
+      "likes": 204,
       "comments": 4,
       "permalink": "https://www.instagram.com/p/DcgDm00DMA5/",
-      "engagement": 207,
+      "engagement": 208,
       "insights": {}
     },
     {
