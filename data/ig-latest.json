@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-28",
-  "pulled_at": 1790578808,
+  "date": "2026-10-12",
+  "pulled_at": 1791788404,
   "account_id": "29279914781611604",
   "warnings": [],
   "account": {
     "id": "29279914781611604",
     "username": "wm.jabez",
     "account_type": "MEDIA_CREATOR",
-    "media_count": 72,
-    "followers_count": 1471
+    "media_count": 74,
+    "followers_count": 1479
   },
   "insights": {
     "reach": {
       "metric": "reach",
       "values": [
         {
-          "value": 199,
-          "end_time": "2026-09-27T07:00:00+0000"
+          "value": 155,
+          "end_time": "2026-10-11T07:00:00+0000"
         },
         {
           "value": 0,
-          "end_time": "2026-09-28T07:00:00+0000"
+          "end_time": "2026-10-12T07:00:00+0000"
         }
       ],
       "value": 0
@@ -46,11 +46,11 @@
       "values": [
         {
           "value": 0,
-          "end_time": "2026-09-27T07:00:00+0000"
+          "end_time": "2026-10-11T07:00:00+0000"
         },
         {
           "value": 0,
-          "end_time": "2026-09-28T07:00:00+0000"
+          "end_time": "2026-10-12T07:00:00+0000"
         }
       ],
       "value": 0
@@ -63,10 +63,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-20T03:43:54+0000",
-      "likes": 620,
-      "comments": 67,
+      "likes": 622,
+      "comments": 68,
       "permalink": "https://www.instagram.com/reel/DcP0pGQsFD9/",
-      "engagement": 687,
+      "engagement": 690,
       "insights": {}
     },
     {
@@ -99,10 +99,10 @@
       "media_type": "CAROUSEL_ALBUM",
       "product_type": "FEED",
       "timestamp": "2026-08-26T11:00:16+0000",
-      "likes": 204,
+      "likes": 206,
       "comments": 4,
       "permalink": "https://www.instagram.com/p/DcgDm00DMA5/",
-      "engagement": 208,
+      "engagement": 210,
       "insights": {}
     },
     {
@@ -123,10 +123,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-06-10T16:03:41+0000",
-      "likes": 171,
+      "likes": 172,
       "comments": 18,
       "permalink": "https://www.instagram.com/reel/DZaU_HCsKJU/",
-      "engagement": 189,
+      "engagement": 190,
       "insights": {}
     },
     {
@@ -166,18 +166,6 @@
       "insights": {}
     },
     {
-      "id": "18036371801466023",
-      "caption": "Dahab Lost Files Part 2 📸",
-      "media_type": "CAROUSEL_ALBUM",
-      "product_type": "FEED",
-      "timestamp": "2025-08-23T05:00:10+0000",
-      "likes": 160,
-      "comments": 3,
-      "permalink": "https://www.instagram.com/p/DNr14D52BoJ/",
-      "engagement": 163,
-      "insights": {}
-    },
-    {
       "id": "18075415730327060",
       "caption": "And now it's YOUR turn😝🫵🏾 One testimonial. Hundreds of stories. Countl…",
       "media_type": "VIDEO",
@@ -195,10 +183,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2025-11-18T13:00:18+0000",
-      "likes": 155,
+      "likes": 156,
       "comments": 0,
       "permalink": "https://www.instagram.com/reel/DRMt4o5DHJj/",
-      "engagement": 155,
+      "engagement": 156,
       "insights": {}
     },
     {
@@ -286,27 +274,15 @@
       "insights": {}
     },
     {
-      "id": "18079927163480390",
-      "caption": "Farsha Lost Files 📸",
-      "media_type": "CAROUSEL_ALBUM",
-      "product_type": "FEED",
-      "timestamp": "2025-08-31T08:00:17+0000",
-      "likes": 117,
-      "comments": 2,
-      "permalink": "https://www.instagram.com/p/DOAwyOIDLFc/",
-      "engagement": 119,
-      "insights": {}
-    },
-    {
       "id": "17888592780608573",
       "caption": "Easiest and most fun way of getting 15k steps in 🏋🏾‍♂️ #afrohouse #hou…",
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-19T13:00:04+0000",
-      "likes": 110,
+      "likes": 111,
       "comments": 4,
       "permalink": "https://www.instagram.com/reel/DcOPt0Qt6ds/",
-      "engagement": 114,
+      "engagement": 115,
       "insights": {}
     },
     {
@@ -495,10 +471,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2025-11-18T11:00:34+0000",
-      "likes": 81,
+      "likes": 82,
       "comments": 4,
       "permalink": "https://www.instagram.com/reel/DRMgL6-jGa3/",
-      "engagement": 85,
+      "engagement": 86,
       "insights": {}
     },
     {
@@ -519,10 +495,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-09-12T08:15:29+0000",
-      "likes": 76,
+      "likes": 77,
       "comments": 0,
       "permalink": "https://www.instagram.com/reel/DdLiM4Ht2bd/",
-      "engagement": 76,
+      "engagement": 77,
       "insights": {}
     },
     {
@@ -574,6 +550,18 @@
       "insights": {}
     },
     {
+      "id": "18142902991591607",
+      "caption": "The tighter you hold on to something, the more it slips away. Casual m…",
+      "media_type": "VIDEO",
+      "product_type": "REELS",
+      "timestamp": "2026-10-07T06:15:01+0000",
+      "likes": 62,
+      "comments": 0,
+      "permalink": "https://www.instagram.com/reel/DeLsXqCDCEb/",
+      "engagement": 62,
+      "insights": {}
+    },
+    {
       "id": "18073128452421216",
       "caption": "My Kunye Submission ❤️ A time was definitely had 🫶🏾 #kunye #gondwana #…",
       "media_type": "VIDEO",
@@ -615,10 +603,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-09-05T06:25:07+0000",
-      "likes": 51,
+      "likes": 52,
       "comments": 2,
       "permalink": "https://www.instagram.com/reel/Dc5T_KzN9Cm/",
-      "engagement": 53,
+      "engagement": 54,
       "insights": {}
     },
     {
@@ -651,10 +639,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2025-11-21T15:00:40+0000",
-      "likes": 44,
+      "likes": 45,
       "comments": 0,
       "permalink": "https://www.instagram.com/reel/DRUqEOfDPSd/",
-      "engagement": 44,
+      "engagement": 45,
       "insights": {}
     },
     {
@@ -679,6 +667,18 @@
       "comments": 0,
       "permalink": "https://www.instagram.com/reel/DVgae59MUdf/",
       "engagement": 42,
+      "insights": {}
+    },
+    {
+      "id": "18166993375489582",
+      "caption": "Stop diluting yourself by trying to be everything. Find your label. Do…",
+      "media_type": "VIDEO",
+      "product_type": "REELS",
+      "timestamp": "2026-10-08T15:30:03+0000",
+      "likes": 39,
+      "comments": 0,
+      "permalink": "https://www.instagram.com/reel/DePQnpWDH8e/",
+      "engagement": 39,
       "insights": {}
     },
     {
