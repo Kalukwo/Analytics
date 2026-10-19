@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-12",
-  "pulled_at": 1791788404,
+  "date": "2026-10-19",
+  "pulled_at": 1792393204,
   "account_id": "29279914781611604",
   "warnings": [],
   "account": {
     "id": "29279914781611604",
     "username": "wm.jabez",
     "account_type": "MEDIA_CREATOR",
-    "media_count": 74,
-    "followers_count": 1479
+    "media_count": 75,
+    "followers_count": 1486
   },
   "insights": {
     "reach": {
       "metric": "reach",
       "values": [
         {
-          "value": 155,
-          "end_time": "2026-10-11T07:00:00+0000"
+          "value": 342,
+          "end_time": "2026-10-18T07:00:00+0000"
         },
         {
           "value": 0,
-          "end_time": "2026-10-12T07:00:00+0000"
+          "end_time": "2026-10-19T07:00:00+0000"
         }
       ],
       "value": 0
@@ -46,11 +46,11 @@
       "values": [
         {
           "value": 0,
-          "end_time": "2026-10-11T07:00:00+0000"
+          "end_time": "2026-10-18T07:00:00+0000"
         },
         {
           "value": 0,
-          "end_time": "2026-10-12T07:00:00+0000"
+          "end_time": "2026-10-19T07:00:00+0000"
         }
       ],
       "value": 0
@@ -63,10 +63,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-20T03:43:54+0000",
-      "likes": 622,
+      "likes": 624,
       "comments": 68,
       "permalink": "https://www.instagram.com/reel/DcP0pGQsFD9/",
-      "engagement": 690,
+      "engagement": 692,
       "insights": {}
     },
     {
@@ -75,10 +75,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-14T12:35:48+0000",
-      "likes": 588,
+      "likes": 589,
       "comments": 39,
       "permalink": "https://www.instagram.com/reel/DcBVA5hRvjy/",
-      "engagement": 627,
+      "engagement": 628,
       "insights": {}
     },
     {
@@ -87,10 +87,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-06-08T19:50:15+0000",
-      "likes": 194,
+      "likes": 195,
       "comments": 32,
       "permalink": "https://www.instagram.com/reel/DZVlYgHMEir/",
-      "engagement": 226,
+      "engagement": 227,
       "insights": {}
     },
     {
@@ -123,10 +123,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-06-10T16:03:41+0000",
-      "likes": 172,
+      "likes": 173,
       "comments": 18,
       "permalink": "https://www.instagram.com/reel/DZaU_HCsKJU/",
-      "engagement": 190,
+      "engagement": 191,
       "insights": {}
     },
     {
@@ -159,10 +159,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2025-11-02T06:00:37+0000",
-      "likes": 154,
+      "likes": 155,
       "comments": 9,
       "permalink": "https://www.instagram.com/reel/DQixJs8DC1x/",
-      "engagement": 163,
+      "engagement": 164,
       "insights": {}
     },
     {
@@ -219,10 +219,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-07-16T16:00:04+0000",
-      "likes": 114,
+      "likes": 115,
       "comments": 25,
       "permalink": "https://www.instagram.com/reel/Da3BWPstrdm/",
-      "engagement": 139,
+      "engagement": 140,
       "insights": {}
     },
     {
@@ -315,10 +315,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-07-27T17:25:22+0000",
-      "likes": 100,
+      "likes": 101,
       "comments": 10,
       "permalink": "https://www.instagram.com/reel/DbTfyubRu64/",
-      "engagement": 110,
+      "engagement": 111,
       "insights": {}
     },
     {
@@ -555,10 +555,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-10-07T06:15:01+0000",
-      "likes": 62,
+      "likes": 66,
       "comments": 0,
       "permalink": "https://www.instagram.com/reel/DeLsXqCDCEb/",
-      "engagement": 62,
+      "engagement": 66,
       "insights": {}
     },
     {
@@ -634,6 +634,18 @@
       "insights": {}
     },
     {
+      "id": "18166993375489582",
+      "caption": "Stop diluting yourself by trying to be everything. Find your label. Do…",
+      "media_type": "VIDEO",
+      "product_type": "REELS",
+      "timestamp": "2026-10-08T15:30:03+0000",
+      "likes": 43,
+      "comments": 2,
+      "permalink": "https://www.instagram.com/reel/DePQnpWDH8e/",
+      "engagement": 45,
+      "insights": {}
+    },
+    {
       "id": "18537590695014564",
       "caption": "Thoughts on c🌽rn and how it shapes someones character. #jabezlovesconv…",
       "media_type": "VIDEO",
@@ -667,18 +679,6 @@
       "comments": 0,
       "permalink": "https://www.instagram.com/reel/DVgae59MUdf/",
       "engagement": 42,
-      "insights": {}
-    },
-    {
-      "id": "18166993375489582",
-      "caption": "Stop diluting yourself by trying to be everything. Find your label. Do…",
-      "media_type": "VIDEO",
-      "product_type": "REELS",
-      "timestamp": "2026-10-08T15:30:03+0000",
-      "likes": 39,
-      "comments": 0,
-      "permalink": "https://www.instagram.com/reel/DePQnpWDH8e/",
-      "engagement": 39,
       "insights": {}
     },
     {
