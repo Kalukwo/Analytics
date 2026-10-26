@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-19",
-  "pulled_at": 1792393204,
+  "date": "2026-10-26",
+  "pulled_at": 1792999025,
   "account_id": "29279914781611604",
   "warnings": [],
   "account": {
     "id": "29279914781611604",
     "username": "wm.jabez",
     "account_type": "MEDIA_CREATOR",
-    "media_count": 75,
-    "followers_count": 1486
+    "media_count": 71,
+    "followers_count": 1488
   },
   "insights": {
     "reach": {
       "metric": "reach",
       "values": [
         {
-          "value": 342,
-          "end_time": "2026-10-18T07:00:00+0000"
+          "value": 102,
+          "end_time": "2026-10-25T07:00:00+0000"
         },
         {
           "value": 0,
-          "end_time": "2026-10-19T07:00:00+0000"
+          "end_time": "2026-10-26T07:00:00+0000"
         }
       ],
       "value": 0
@@ -46,11 +46,11 @@
       "values": [
         {
           "value": 0,
-          "end_time": "2026-10-18T07:00:00+0000"
+          "end_time": "2026-10-25T07:00:00+0000"
         },
         {
           "value": 0,
-          "end_time": "2026-10-19T07:00:00+0000"
+          "end_time": "2026-10-26T07:00:00+0000"
         }
       ],
       "value": 0
@@ -63,10 +63,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-20T03:43:54+0000",
-      "likes": 624,
+      "likes": 625,
       "comments": 68,
       "permalink": "https://www.instagram.com/reel/DcP0pGQsFD9/",
-      "engagement": 692,
+      "engagement": 693,
       "insights": {}
     },
     {
@@ -75,10 +75,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-14T12:35:48+0000",
-      "likes": 589,
+      "likes": 592,
       "comments": 39,
       "permalink": "https://www.instagram.com/reel/DcBVA5hRvjy/",
-      "engagement": 628,
+      "engagement": 631,
       "insights": {}
     },
     {
@@ -111,10 +111,10 @@
       "media_type": "CAROUSEL_ALBUM",
       "product_type": "FEED",
       "timestamp": "2026-06-17T18:32:59+0000",
-      "likes": 200,
+      "likes": 199,
       "comments": 4,
       "permalink": "https://www.instagram.com/p/DZsnsYAjJU8/",
-      "engagement": 204,
+      "engagement": 203,
       "insights": {}
     },
     {
@@ -639,10 +639,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-10-08T15:30:03+0000",
-      "likes": 43,
+      "likes": 44,
       "comments": 2,
       "permalink": "https://www.instagram.com/reel/DePQnpWDH8e/",
-      "engagement": 45,
+      "engagement": 46,
       "insights": {}
     },
     {
