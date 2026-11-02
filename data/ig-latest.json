@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-26",
-  "pulled_at": 1792999025,
+  "date": "2026-11-02",
+  "pulled_at": 1793602804,
   "account_id": "29279914781611604",
   "warnings": [],
   "account": {
@@ -8,7 +8,7 @@
     "username": "wm.jabez",
     "account_type": "MEDIA_CREATOR",
     "media_count": 71,
-    "followers_count": 1488
+    "followers_count": 1495
   },
   "insights": {
     "reach": {
@@ -16,14 +16,10 @@
       "values": [
         {
           "value": 102,
-          "end_time": "2026-10-25T07:00:00+0000"
-        },
-        {
-          "value": 0,
-          "end_time": "2026-10-26T07:00:00+0000"
+          "end_time": "2026-11-01T07:00:00+0000"
         }
       ],
-      "value": 0
+      "value": 102
     },
     "views": {
       "metric": "views",
@@ -46,11 +42,7 @@
       "values": [
         {
           "value": 0,
-          "end_time": "2026-10-25T07:00:00+0000"
-        },
-        {
-          "value": 0,
-          "end_time": "2026-10-26T07:00:00+0000"
+          "end_time": "2026-11-01T07:00:00+0000"
         }
       ],
       "value": 0
@@ -75,10 +67,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-14T12:35:48+0000",
-      "likes": 592,
+      "likes": 597,
       "comments": 39,
       "permalink": "https://www.instagram.com/reel/DcBVA5hRvjy/",
-      "engagement": 631,
+      "engagement": 636,
       "insights": {}
     },
     {
@@ -622,6 +614,18 @@
       "insights": {}
     },
     {
+      "id": "18166993375489582",
+      "caption": "Stop diluting yourself by trying to be everything. Find your label. Do…",
+      "media_type": "VIDEO",
+      "product_type": "REELS",
+      "timestamp": "2026-10-08T15:30:03+0000",
+      "likes": 45,
+      "comments": 2,
+      "permalink": "https://www.instagram.com/reel/DePQnpWDH8e/",
+      "engagement": 47,
+      "insights": {}
+    },
+    {
       "id": "18013851932648533",
       "caption": "Road Trip from Ushago to NBO 🛣️ #travel #newyear #tembeakenya",
       "media_type": "VIDEO",
@@ -631,18 +635,6 @@
       "comments": 0,
       "permalink": "https://www.instagram.com/reel/DTGPUdJjMnt/",
       "engagement": 47,
-      "insights": {}
-    },
-    {
-      "id": "18166993375489582",
-      "caption": "Stop diluting yourself by trying to be everything. Find your label. Do…",
-      "media_type": "VIDEO",
-      "product_type": "REELS",
-      "timestamp": "2026-10-08T15:30:03+0000",
-      "likes": 44,
-      "comments": 2,
-      "permalink": "https://www.instagram.com/reel/DePQnpWDH8e/",
-      "engagement": 46,
       "insights": {}
     },
     {
