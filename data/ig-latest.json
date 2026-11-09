@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-02",
-  "pulled_at": 1793602804,
+  "date": "2026-11-09",
+  "pulled_at": 1794207604,
   "account_id": "29279914781611604",
   "warnings": [],
   "account": {
     "id": "29279914781611604",
     "username": "wm.jabez",
     "account_type": "MEDIA_CREATOR",
-    "media_count": 71,
+    "media_count": 72,
     "followers_count": 1495
   },
   "insights": {
@@ -15,11 +15,15 @@
       "metric": "reach",
       "values": [
         {
-          "value": 102,
-          "end_time": "2026-11-01T07:00:00+0000"
+          "value": 195,
+          "end_time": "2026-11-07T08:00:00+0000"
+        },
+        {
+          "value": 239,
+          "end_time": "2026-11-08T08:00:00+0000"
         }
       ],
-      "value": 102
+      "value": 239
     },
     "views": {
       "metric": "views",
@@ -41,8 +45,12 @@
       "metric": "follower_count",
       "values": [
         {
+          "value": 1,
+          "end_time": "2026-11-07T08:00:00+0000"
+        },
+        {
           "value": 0,
-          "end_time": "2026-11-01T07:00:00+0000"
+          "end_time": "2026-11-08T08:00:00+0000"
         }
       ],
       "value": 0
@@ -55,10 +63,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-20T03:43:54+0000",
-      "likes": 625,
+      "likes": 626,
       "comments": 68,
       "permalink": "https://www.instagram.com/reel/DcP0pGQsFD9/",
-      "engagement": 693,
+      "engagement": 694,
       "insights": {}
     },
     {
@@ -67,10 +75,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-14T12:35:48+0000",
-      "likes": 597,
+      "likes": 601,
       "comments": 39,
       "permalink": "https://www.instagram.com/reel/DcBVA5hRvjy/",
-      "engagement": 636,
+      "engagement": 640,
       "insights": {}
     },
     {
@@ -122,27 +130,15 @@
       "insights": {}
     },
     {
-      "id": "18060702605092990",
-      "caption": "Mt. Sinai Lost Files 📸",
-      "media_type": "CAROUSEL_ALBUM",
-      "product_type": "FEED",
-      "timestamp": "2025-09-04T09:23:36+0000",
-      "likes": 170,
-      "comments": 2,
-      "permalink": "https://www.instagram.com/p/DOLNeUHDE5Y/",
-      "engagement": 172,
-      "insights": {}
-    },
-    {
       "id": "18076585937003300",
       "caption": "Pyramids of Giza Lost files 🐪📸",
       "media_type": "CAROUSEL_ALBUM",
       "product_type": "FEED",
       "timestamp": "2025-09-10T03:05:00+0000",
-      "likes": 161,
+      "likes": 162,
       "comments": 6,
       "permalink": "https://www.instagram.com/p/DOZ--S_DPcy/",
-      "engagement": 167,
+      "engagement": 168,
       "insights": {}
     },
     {
@@ -179,6 +175,18 @@
       "comments": 0,
       "permalink": "https://www.instagram.com/reel/DRMt4o5DHJj/",
       "engagement": 156,
+      "insights": {}
+    },
+    {
+      "id": "17974899921164739",
+      "caption": "Can't believe I actually made this purchase. Shout out to everyone who…",
+      "media_type": "VIDEO",
+      "product_type": "REELS",
+      "timestamp": "2026-11-03T05:20:44+0000",
+      "likes": 129,
+      "comments": 20,
+      "permalink": "https://www.instagram.com/reel/DfRHlMeh26N/",
+      "engagement": 149,
       "insights": {}
     },
     {
@@ -271,10 +279,10 @@
       "media_type": "VIDEO",
       "product_type": "REELS",
       "timestamp": "2026-08-19T13:00:04+0000",
-      "likes": 111,
+      "likes": 112,
       "comments": 4,
       "permalink": "https://www.instagram.com/reel/DcOPt0Qt6ds/",
-      "engagement": 115,
+      "engagement": 116,
       "insights": {}
     },
     {
@@ -283,10 +291,22 @@
       "media_type": "CAROUSEL_ALBUM",
       "product_type": "FEED",
       "timestamp": "2026-07-28T10:00:02+0000",
-      "likes": 114,
+      "likes": 115,
       "comments": 0,
       "permalink": "https://www.instagram.com/p/DbVRsWGjJpF/",
-      "engagement": 114,
+      "engagement": 115,
+      "insights": {}
+    },
+    {
+      "id": "17892916137580003",
+      "caption": "The streets called and we answered! @komplexke street party was such a…",
+      "media_type": "VIDEO",
+      "product_type": "REELS",
+      "timestamp": "2026-07-27T17:25:22+0000",
+      "likes": 103,
+      "comments": 10,
+      "permalink": "https://www.instagram.com/reel/DbTfyubRu64/",
+      "engagement": 113,
       "insights": {}
     },
     {
@@ -299,18 +319,6 @@
       "comments": 0,
       "permalink": "https://www.instagram.com/p/DOS6YIiiCkK/",
       "engagement": 113,
-      "insights": {}
-    },
-    {
-      "id": "17892916137580003",
-      "caption": "The streets called and we answered! @komplexke street party was such a…",
-      "media_type": "VIDEO",
-      "product_type": "REELS",
-      "timestamp": "2026-07-27T17:25:22+0000",
-      "likes": 101,
-      "comments": 10,
-      "permalink": "https://www.instagram.com/reel/DbTfyubRu64/",
-      "engagement": 111,
       "insights": {}
     },
     {
